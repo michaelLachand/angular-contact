@@ -1,0 +1,82 @@
+{
+  "contacts": [
+    {
+      "id": "EFZ",
+      "name": "Michael Lachand",
+      "email": "mike@gmail.com",
+      "photo": "https://www.pinclipart.com/picdir/big/559-5594866_necktie-drawing-vector-round-avatar-user-icon-png.png",
+      "mobile": "06 04 04 03 42",
+      "entreprise": "Softeam",
+      "title": "Developpeur",
+      "groupId": "1"
+    },
+    {
+      "id": "EFgrgreZ",
+      "name": "Aurélie Lachand",
+      "email": "aure@gmail.com",
+      "photo": "http://assets.stickpng.com/images/585e4bc4cb11b227491c3395.png",
+      "mobile": "06 04 65 99 42",
+      "entreprise": "BCA Expertises",
+      "title": "Conseillere en assurance",
+      "groupId": "1"
+    },
+    {
+      "id": "dfsdgfh",
+      "name": "Ludovic Lachand",
+      "email": "ludo@gmail.com",
+      "photo": "https://i.pinimg.com/originals/8b/16/7a/8b167af653c2399dd93b952a48740620.jpg",
+      "mobile": "06 54 64 77 42",
+      "entreprise": "Agrica 2",
+      "title": "Gestionnaire mutuelle",
+      "groupId": "1"
+    },
+    {
+      "id": "fgfdfh",
+      "name": "Sophie Lachand",
+      "email": "sosso@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprjP-BMSaPG1L-_gGNVEVpP9pqXbmkUJk2g&usqp=CAU",
+      "mobile": "06 04 04 03 42",
+      "entreprise": "CNFPT",
+      "title": "Responsable formation",
+      "groupId": "4"
+    },
+    {
+      "id": "fgfdfh",
+      "name": "Noha Lachand",
+      "email": "noha@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprjP-BMSaPG1L-_gGNVEVpP9pqXbmkUJk2g&usqp=CAU",
+      "mobile": "06 99 00 33 44",
+      "entreprise": "FAC",
+      "title": "Etudiante",
+      "groupId": "3"
+    },
+    {
+      "name": "Lala",
+      "photo": "https://www.pinclipart.com/picdir/middle/165-1653686_female-user-icon-png-download-user-colorful-icon.png",
+      "email": "lala@gmail.com",
+      "mobile": "07050424249",
+      "entreprise": "MONTUABAN",
+      "title": "chomage",
+      "groupId": "1",
+      "id": "WETJscO"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Famille"
+    },
+    {
+      "id": "2",
+      "name": "Travail"
+    },
+    {
+      "id": "3",
+      "name": "Communauté"
+    },
+    {
+      "id": "4",
+      "name": "Ami"
+    }
+  ]
+}
